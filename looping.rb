@@ -1,7 +1,7 @@
 def looping
 	#your code here
   looping do
-    "Hello World!"
+    puts "Hello World!"
   end
 end
 
